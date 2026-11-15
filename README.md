@@ -204,8 +204,4 @@ Detailed engineering specifications are maintained in the repository:
 
 ---
 
-## 7. Current Project Status
 
-```text
-Phase 3 – Project Foundation Completed and Awaiting Project Owner Review.
-```
